@@ -1,0 +1,49 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "VGA_R[7]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_G[7]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_B[7]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_BLANK_N",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_HS",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_VS",
+					"strict" : false
+				},
+				{
+					"name" : "BT2_UP",
+					"strict" : false
+				},
+				{
+					"name" : "BT2_DOWN",
+					"strict" : false
+				},
+				{
+					"name" : "BT1_UP",
+					"strict" : false
+				},
+				{
+					"name" : "BT1_DOWN",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

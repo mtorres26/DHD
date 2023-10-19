@@ -1,0 +1,7 @@
+se modifica un archivo .mif con lo que quieras hacer
+
+se hace click derecho en la RAM (modo hierarchy en la ventanita) y en "Mem_Init" se cambia la ruta al archivo que quieras (con browse mejor) y se le da a ok ok y finish
+
+se vuelve a compilar (por si acaso)
+
+en el simulador funcional con darle 8 ns de tiempo total de clock es suficiente

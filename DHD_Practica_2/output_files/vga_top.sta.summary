@@ -1,0 +1,89 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'PLL|altpll_component|pll|clk[0]'
+Slack : -7.399
+TNS   : -21.491
+
+Type  : Slow 1200mV 85C Model Setup 'controlador_vga_640_x_480_60:VGA|vga_vs'
+Slack : -3.434
+TNS   : -78.746
+
+Type  : Slow 1200mV 85C Model Hold 'PLL|altpll_component|pll|clk[0]'
+Slack : 0.403
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'controlador_vga_640_x_480_60:VGA|vga_vs'
+Slack : 0.451
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'controlador_vga_640_x_480_60:VGA|vga_vs'
+Slack : -1.285
+TNS   : -52.685
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.891
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'PLL|altpll_component|pll|clk[0]'
+Slack : 19.709
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'PLL|altpll_component|pll|clk[0]'
+Slack : -6.532
+TNS   : -18.941
+
+Type  : Slow 1200mV 0C Model Setup 'controlador_vga_640_x_480_60:VGA|vga_vs'
+Slack : -2.945
+TNS   : -67.652
+
+Type  : Slow 1200mV 0C Model Hold 'PLL|altpll_component|pll|clk[0]'
+Slack : 0.354
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'controlador_vga_640_x_480_60:VGA|vga_vs'
+Slack : 0.408
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'controlador_vga_640_x_480_60:VGA|vga_vs'
+Slack : -1.285
+TNS   : -52.685
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.887
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'PLL|altpll_component|pll|clk[0]'
+Slack : 19.695
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'PLL|altpll_component|pll|clk[0]'
+Slack : -3.220
+TNS   : -9.336
+
+Type  : Fast 1200mV 0C Model Setup 'controlador_vga_640_x_480_60:VGA|vga_vs'
+Slack : -1.169
+TNS   : -17.922
+
+Type  : Fast 1200mV 0C Model Hold 'PLL|altpll_component|pll|clk[0]'
+Slack : 0.181
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'controlador_vga_640_x_480_60:VGA|vga_vs'
+Slack : 0.204
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'controlador_vga_640_x_480_60:VGA|vga_vs'
+Slack : -1.000
+TNS   : -41.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.574
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'PLL|altpll_component|pll|clk[0]'
+Slack : 19.780
+TNS   : 0.000
+
+------------------------------------------------------------
